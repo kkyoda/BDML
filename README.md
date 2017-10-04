@@ -8,6 +8,7 @@ Rapid advances in live-cell imaging and modeling techniques enable many research
 BDML is an open format for representing quantitative biological dynamics data. It is based on Extensible Markup Language (XML). By using BDML, a wide variety of quantitative biological dynamics data from molecules to cells to organisms can be described. To describe a large size of quantitative biological dynamics data, we developed BD5 data format, which supports HDF5-based storage of quantitative biological dynamics data as the extension of BDML data format.
 
 BDML schema and specification: <http://ssbd.qbic.riken.jp/bdml/>
+
 BD5 specification: will be available soon.
 
 
